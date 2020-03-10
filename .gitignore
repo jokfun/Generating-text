@@ -1,0 +1,8 @@
+__pycache__/
+results/
+training_checkpoints/
+data/
+*.pyc
+*.pickle
+dataset.csv
+data.txt
